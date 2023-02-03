@@ -1,0 +1,11 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World\" && exit 1"
+  },
+  "author": "Igor",
+  "license": "ISC"
+}
